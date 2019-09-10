@@ -1,0 +1,1 @@
+this project is all about vi the visual editor which is a default editor and the commands to use to manipulate files.
