@@ -1,3 +1,3 @@
 > Hello Holberton
-> > It's Day zero!
+> > this is a repo containing projects of day 0
 
